@@ -1,0 +1,6 @@
+npm-debug.log
+*log*
+*.log
+*debug*
+*logs*
+*logs/*
