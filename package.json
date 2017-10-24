@@ -1,0 +1,22 @@
+{
+  "name": "miamibeach",
+  "version": "0.0.0",
+  "description": "website",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MalcontentLout/MalcontentLout.github.io.git"
+  },
+  "author": "MalcontentLout",
+  "license": "GNU GPL v3",
+  "bugs": {
+    "url": "https://github.com/MalcontentLout/MalcontentLout.github.io/issues"
+  },
+  "homepage": "https://github.com/MalcontentLout/MalcontentLout.github.io#readme",
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}
