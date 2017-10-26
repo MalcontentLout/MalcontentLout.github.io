@@ -4,3 +4,4 @@ npm-debug.log
 *debug*
 *logs*
 *logs/*
+node_modules/jest*
