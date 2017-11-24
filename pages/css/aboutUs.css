@@ -1,0 +1,24 @@
+#wrapper {
+  background-color: #f9f764;
+  font-size: 18px;
+}
+#stripe1 {
+  background-color: #4da6ff;
+  padding:0px;
+  margin:0px;
+  overflow:hidden;
+  height:125px;
+  width:90%;
+  text-align: left;
+  line-height: 30px;
+}
+#stripe2 {
+  background-color: white;
+  padding:0px;
+  margin:0px;
+  overflow:hidden;
+  height:125px;
+  width:90%;
+  text-align: left;
+  line-height: 10px;
+}
