@@ -1,21 +1,41 @@
 /*Banner*/
-div {
+#banner {
     background-color:#cf7657;
-    width:100%;
-    height:10%;
-    text-align:center;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    padding:0px;
+    margin:0px;
+    overflow:hidden;
+/*    border-style:solid;
+    border-width:1px; */
     }
 /*Sky*/
-div {
+#sky {
     background-color: #57b0cf;
     width:100%;
-    height:35%
+    height: 250px;
+    text-align: left;
+    padding:0px;
+    margin:0px;
+    overflow:hidden;
+/*    border-style:solid;
+    border-width:1px; */
 }
 /*Beach*/
-div {
-    background-color:#f9f764;
-    width:100%;
-    height:55%;
+#beach {
+    background-color: #f9f764;
+    width: 100%;
+    height: 350px;
+    text-align: center;
+    padding:0px;
+    margin:0px;
+    overflow:hidden;
+/*    border-style:solid;
+    border-width:1px; */
+}
+#mbfa {
+  margin-top:125px;
 }
 a:link {
     color:black;
@@ -24,7 +44,7 @@ a:visited {
     color:#110432;
 }
 a:hover {
-    color:#dc7407;
+    color:#ff8000;
 }
 a:active {
     color:#fff487;
